@@ -15,3 +15,7 @@ application: explore_assistant {
     local_storage: yes
     }
 }
+
+constant: BQML_REMOTE_CONNECTION_MODEL_ID {
+  value: "foo"
+}
